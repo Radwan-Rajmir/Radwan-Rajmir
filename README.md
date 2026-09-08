@@ -18,14 +18,19 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 
 ## Top Repositories
 
-[Data_Entry_from_Excel_to_ERP](https://github.com/Radwan-Rajmir/Data_Entry_from_Excel_to_ERP) &nbsp;·&nbsp; [ERP_System_Automation_with_WDIO](https://github.com/Radwan-Rajmir/ERP_System_Automation_with_WDIO) &nbsp;·&nbsp; [QA-Automation](https://github.com/Radwan-Rajmir/QA-Automation) &nbsp;·&nbsp; [Postman-automation](https://github.com/Radwan-Rajmir/Postman-automation) &nbsp;·&nbsp; [AutomationTest](https://github.com/Radwan-Rajmir/AutomationTest) &nbsp;·&nbsp; [Automation](https://github.com/Radwan-Rajmir/Automation)
+<a href="https://github.com/Radwan-Rajmir/Data_Entry_from_Excel_to_ERP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Data_Entry_from_Excel_to_ERP&theme=default" /></a>
+<a href="https://github.com/Radwan-Rajmir/ERP_System_Automation_with_WDIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=ERP_System_Automation_with_WDIO&theme=default" /></a>
+<a href="https://github.com/Radwan-Rajmir/QA-Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=QA-Automation&theme=default" /></a>
+<a href="https://github.com/Radwan-Rajmir/Postman-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Postman-automation&theme=default" /></a>
+<a href="https://github.com/Radwan-Rajmir/AutomationTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=AutomationTest&theme=default" /></a>
+<a href="https://github.com/Radwan-Rajmir/Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Automation&theme=default" /></a>
 
 <br/>
 
 ## Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-radwan-hossen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radwanhossen1511011m@gmail.com)
-[![Website](https://img.shields.io/badge/O'Dell%20Tech-2F80ED?style=flat-square&logo=googlechrome&logoColor=white)](https://odelltech.com)
 
 <br/>
 
