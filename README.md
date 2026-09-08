@@ -14,7 +14,7 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 
 - 🏆 GitHub contributions in the last year — the snake eats through the graph above
 - 📦 Public repos on GitHub
-- 📧 info.odelltech@odell.com.bd
+- 📧 radwanhossen1511011m@gmail.com
 
 <br/>
 
