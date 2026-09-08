@@ -1,6 +1,6 @@
 <h1>MD. Radwan Hossen</h1>
 
-**Software Quality Assurance (SQA) Enthusiast**
+**Software Quality Assurance (SQA)**
 
 A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell Tech LTD](https://odelltech.com), with a background spanning manual and automated testing, API testing, and support engineering. Strong interest in test automation, browser automation, and building tools that connect business systems together. Experienced in designing test cases, automating ERP data-entry workflows with Python and Playwright, and validating APIs with Postman. Passionate about catching issues before users do and building reliable, well-documented systems.
 
