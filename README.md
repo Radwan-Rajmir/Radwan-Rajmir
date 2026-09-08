@@ -6,24 +6,13 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radwan-Rajmir&theme=github_dark" width="100%"/>
 
 <br/>
 
 ## Top Repositories
 
-<a href="https://github.com/Radwan-Rajmir/Data_Entry_from_Excel_to_ERP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Data_Entry_from_Excel_to_ERP&theme=default" /></a>
-<a href="https://github.com/Radwan-Rajmir/ERP_System_Automation_with_WDIO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=ERP_System_Automation_with_WDIO&theme=default" /></a>
-<a href="https://github.com/Radwan-Rajmir/QA-Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=QA-Automation&theme=default" /></a>
-<a href="https://github.com/Radwan-Rajmir/Postman-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Postman-automation&theme=default" /></a>
-<a href="https://github.com/Radwan-Rajmir/AutomationTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=AutomationTest&theme=default" /></a>
-<a href="https://github.com/Radwan-Rajmir/Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Radwan-Rajmir&repo=Automation&theme=default" /></a>
+[Data_Entry_from_Excel_to_ERP](https://github.com/Radwan-Rajmir/Data_Entry_from_Excel_to_ERP) &nbsp;·&nbsp; [ERP_System_Automation_with_WDIO](https://github.com/Radwan-Rajmir/ERP_System_Automation_with_WDIO) &nbsp;·&nbsp; [QA-Automation](https://github.com/Radwan-Rajmir/QA-Automation) &nbsp;·&nbsp; [Postman-automation](https://github.com/Radwan-Rajmir/Postman-automation) &nbsp;·&nbsp; [AutomationTest](https://github.com/Radwan-Rajmir/AutomationTest) &nbsp;·&nbsp; [Automation](https://github.com/Radwan-Rajmir/Automation)
 
 <br/>
 
@@ -53,3 +42,13 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radwan-Rajmir&theme=default&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radwan-Rajmir&layout=compact&theme=default&hide_border=true" height="165"/>
+
+<br/>
+
+## Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
