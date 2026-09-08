@@ -12,9 +12,7 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Radwan-Rajmir/Radwan-Rajmir/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-- 🏆 GitHub contributions in the last year — the snake eats through the graph above
-- 📦 Public repos on GitHub
-- 📧 radwanhossen1511011m@gmail.com
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radwan-Rajmir&theme=github_dark" width="100%"/>
 
 <br/>
 
