@@ -24,7 +24,7 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info.odelltech@odell.com.bd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:radwanhossen1511011m@gmail.com)
 [![Website](https://img.shields.io/badge/O'Dell%20Tech-2F80ED?style=flat-square&logo=googlechrome&logoColor=white)](https://odelltech.com)
 
 <br/>
