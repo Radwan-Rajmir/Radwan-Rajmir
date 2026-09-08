@@ -6,7 +6,7 @@ A dedicated Software Quality Assurance (SQA) and Support professional at [O'Dell
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radwan-Rajmir&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radwan-Rajmir&theme=github_dark&cache_bust=1" width="100%"/>
 
 <br/>
 
